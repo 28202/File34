@@ -3,7 +3,7 @@ A basic tool to search a website for files.
 
 <h1>Usage</h1>
 <b>To setup run:</b><br>
-  chmod +x setup.sh<br>
+  chmod 755 setup.sh<br>
   ./setup.sh
   
 <b>To scan a website:</b>
