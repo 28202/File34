@@ -8,6 +8,6 @@ A basic tool to search a website for files.
   
 <b>To scan a website:</b>
 <br>
-File34 [website] [file list] [output location]
+./File34 [website] [file list] [output location]
 <br>
-File34 http://example.com pages.txt ~/Desktop/output.txt
+./File34 http://example.com pages.txt ~/Desktop/output.txt
