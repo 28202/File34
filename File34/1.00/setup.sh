@@ -1,3 +1,6 @@
+#!/bin/bash
+# Setup Script
+
 chmod +x File34
 cd /bin
 ln -s ~/File34/File34/1.00/
