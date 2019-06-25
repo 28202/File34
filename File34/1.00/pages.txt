@@ -1,3 +1,4 @@
+#This contains the page list the program will look through please remove this line before running
 /
 /index.html
 /index.php
